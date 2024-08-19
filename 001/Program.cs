@@ -13,6 +13,7 @@ namespace _001
             Console.WriteLine("Hello,World!");
             Console.WriteLine("Hello,World!");
             Console.WriteLine("2024.0819.2329");
+             Console.WriteLine("2024.0819.2332");
         }
     }
 }
